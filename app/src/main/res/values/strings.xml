@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Notes App</string>
+
+    <string name="title">Title..</string>
+    <string name="subtitle">Subtitle..</string>
+    <string name="notes">Notes..</string>
+    <string name="priority">Priority</string>
+
+    <string name="noFilter">No Filter</string>
+    <string name="H2L">High to Low</string>
+    <string name="L2H">Low to High</string>
+</resources>
